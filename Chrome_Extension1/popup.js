@@ -3,7 +3,7 @@
  *DISCLAIMER: Any Part or segment of the comments presented as documentation cannot be modified or removed without the proper permission from the current author. If any of the documentation in the public domain is found without proper credits and permission of the author, it will be dealt as plagiarism of the original code. However, part of the codes can be customized and used as per needs without any permission for personal use.
  *Author: GARGEE SRIVASTAVA
  *Contact details: srivastava.gargee@gmail.com
- *Developed for: Affective Computing Team, IIT-Guwahati for development of vedinkakSa, a sensitive classroom application.
+ *Developed for: Smart INdia Hackathon 2020
  */
 var u='http://18.234.107.157:5000/api/text?id='
 var u2='http://52.21.76.215:5000/api/text?id='
