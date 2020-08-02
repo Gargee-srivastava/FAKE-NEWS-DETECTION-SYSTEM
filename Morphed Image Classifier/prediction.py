@@ -1,4 +1,4 @@
-from model import *
+from model1 import *
 from pylab import *
 from PIL import Image, ImageChops, ImageEnhance
 import os
