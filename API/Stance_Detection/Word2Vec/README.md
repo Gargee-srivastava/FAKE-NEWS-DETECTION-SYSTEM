@@ -2,9 +2,11 @@
 
 Clone the repository
 ```bash
-git clone https://gitlab.com/fake-news1/ibm-fake-news-bot.git
-cd ibm-fake-news-bot/ml_API
+git clone https://github.com/Gargee-srivastava/RK304_Techclans.git
+cd RK304_Techclans/API/Stance_Detection/Word2Vec/
 ```
+
+Download the stance detection dataset from [fnc](http://www.fakenewschallenge.org/) and place in `RK304_Techclans/API/Stance_Detection/Word2Vec/` folder
 
 Create Conda Environment
 ```bash
@@ -19,7 +21,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-To train the model, move to `notebooks` folder and use `Word2Vec.ipynb` file to train it.
+To train the model, use `Word2Vec.ipynb` file to train it.
 
 To run the deployment server 
 
