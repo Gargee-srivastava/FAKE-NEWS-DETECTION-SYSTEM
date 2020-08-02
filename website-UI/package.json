@@ -1,0 +1,66 @@
+{
+  "name": "fake-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@material-ui/core": "^4.9.14",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@trendmicro/react-sidenav": "^0.5.0",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "cross-env": "^7.0.2",
+    "history": "^5.0.0",
+    "list": "^2.0.19",
+    "mdbreact": "^4.27.0",
+    "react": "^16.13.1",
+    "react-alert-template-basic": "^1.0.0",
+    "react-background-slider": "^2.0.0",
+    "react-background-slideshow": "^1.0.4",
+    "react-bootstrap": "^1.0.1",
+    "react-bootstrap-table2-toolkit": "^2.1.3",
+    "react-d3-speedometer": "^0.12.0",
+    "react-dom": "^16.13.1",
+    "react-list-scroll": "^2.0.0",
+    "react-loading": "^2.0.3",
+    "react-minimal-pie-chart": "^8.0.1",
+    "react-modal": "^3.11.2",
+    "react-notification-badge": "^1.5.1",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-portal-overlay": "^1.0.0",
+    "react-router": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-scroll-to": "^3.0.0-beta.6",
+    "react-shadow-scroll": "^1.0.1",
+    "react-typical": "^0.1.3",
+    "reactjs-popup": "^1.5.0",
+    "request": "^2.88.2",
+    "rodal": "^1.8.1",
+    "tachyons-components": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build-prd": "cross-env GENERATE_SOURCEMAP=false react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
