@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fake News Detector</title>
+	<style type="text/css">
+#logo {
+	float: right;
+	padding: 0 0 5px 5px;
+}
+	button{
+	    	padding: 5%;
+	    	margin: 5px;
+	    	width: 10%;
+	    }
+	    label {
+	    	margin: 5px 5px;
+	    }
+   .btn-group .button {
+  background-color:#46861F; /* Green */
+  border: 1px solid blue;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  cursor: pointer;
+  float: left;
+  width: fit-content;
+}
+
+.btn-group .button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+.btn-group .button:hover {
+  background-color: #31710A;
+}
+.button1 {font-size: 16px;}
+body {font-family: Arial, Helvetica, sans-serif;
+  width: 600px;}
+* {box-sizing: border-box;}
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #696969;
+  color: white;
+  font-size: 5px;
+}
+
+/* Full-width input fields */
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: red;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+</style>
+    <meta charset="UTF-8">
+     <script src="libraries/p5.js" type="text/javascript"></script>
+    <script src="libraries/p5.dom.jdomas" type="text/javascript"></script> 
+    <script src="popup.js" type="text/javascript"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link href="css/popup.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="js/jquery.js" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+    
+  </head>
+  <img id="logo" src="icon.png"style="width:50px;height:60px">
+<div class="header">
+  <h1>Fake News Detector</h1>
+</div>
+  <body>
+     
+    <hr>   
+     <h1>Result</h1>
+     
+	 <span class="badge" id="res"><img src="loader.gif"></span>	
+        <span class="badge" id="humour"><img src="loader.gif"></span>
+	<span class="badge" id="troll"><img src="loader.gif"></span>
+	<span class="badge" id="offense"><img src="loader.gif"></span>
+     <hr>
+
+     <h2>Source links</h2>
+		
+
+           <p id="definition"><img src="loader.gif"></p>
+		
+		
+    </p>     
+	<hr>
+      <a class="btn btn-info btn-sm" href="https://docs.google.com/forms/d/e/1FAIpQLSfFm3OLxBByXI7zhtgbBuly3vqS49qvU-nkZN2Qk8d9G010lQ/viewform?usp=sf_link"
+            target="_blank" role="button">
+            Give Feedback
+        </a>
+          <a class="btn btn-info btn-sm" href="https://fakeapp.eu-gb.cf.appdomain.cloud/"
+            target="_blank" role="button">
+            Our Website
+        </a>
+          
+         <a class="btn btn-info btn-sm" href="https://docs.google.com/forms/d/e/1FAIpQLSekv999AxfsCi6UgEAk8AtZeIjVU7Ap7FJSkprTGVVpAH86Wg/viewform"
+            target="_blank" role="button">
+           Report!
+        </a>
+        
+       
+
+  </body>
+</html>

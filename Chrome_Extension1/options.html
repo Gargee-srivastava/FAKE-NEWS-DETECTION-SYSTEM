@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>RevEye - Reverse Image Lookup - options</title>
+
+<style type="text/css">
+body {
+	margin: 15px auto;
+	width: 450px;
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	text-align: center
+}
+h1 {
+	margin: 0;
+}
+h3 {
+	margin: 20px 0 5px 0;
+}
+p {
+	margin: 0 0 10px 0;
+}
+#save {
+	margin-top: 10px;
+}
+#status {
+	background-color: yellow;
+	margin: 5px 150px;
+}
+.options {
+	text-align: left;
+	padding-left: 80px;
+}
+#footer {
+	font-size: 80%;
+	margin-top: 50px;
+}
+</style>
+
+<script src="options.js"></script>
+</head>
+
+<body>
+<div id="header">
+<img src="i/reveye128.png">
+<h1>RevEye</h1>
+<p id="slogan">Reverse Image Lookup</p>
+</div>
+
+<h3>Context menu options:</h3>
+<div class="options">
+<input type="radio" id="submenu" name="menutype" value="submenu" id="submenu"><label for="submenu" title="Choose this option if you want to select a search engine on every lookup.">Display all search engines in the menu.</label><br/>
+<input type="radio" id="singleoption" name="menutype" value="singleoption" id="singleoption"><label for="singleoption" title="Choose this option if you want to use the same search engine for every lookup.">Use one default option:</label> <span id="submenu_default" name="submenu_default"><select id="service">
+<option id="all" value="all">all engines</option>
+<option id="google" value="google">Google</option>
+<option id="bing" value="bing">Bing</option>
+<option id="yandex" value="yandex">Yandex</option>
+<option id="tineye" value="tineye">TinEye</option>
+<option id="baidu" value="baidu">Baidu</option>
+</select>
+</span>
+</div>
+
+
+<div id="save">
+<div id="status"></div>
+<button id="save_button">Save</button>
+</div>
+
+<p id="footer">RevEye v1.4.5 Copyright &copy; 2010-2017 <a href="http://squobble.blogspot.com" target="_blank">steven2358</a>.</p>
+
+</body>
+</html>

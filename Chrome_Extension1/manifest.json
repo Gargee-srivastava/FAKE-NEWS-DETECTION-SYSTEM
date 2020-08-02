@@ -1,0 +1,50 @@
+{
+  "manifest_version": 2,
+  "name": "Fake news detector",
+  "version": "1.0",
+  "description": "This extension shows how you communicate back to a pop-up from the content.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "web_accessible_resources":[
+	"toolbar.html",
+	"style.css","icon.png"
+
+  ],
+ "background": {
+    "scripts": ["background.js","reveye.js"]
+     
+  },
+  "options_page": "options.html",
+  "icons": {
+    "16": "i/fake16.jpg",
+    "19": "i/fake19.jpg",
+    "48": "i/fake48.jpg",
+    "128": "i/fake128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": ["jquery-3.3.1.min.js",
+                  "utils/utils.js",
+                "lib/jquery-3.1.1.slim.min.js",
+                "lib/mutation-summary.js",
+                "lib/jquery.mutation-summary.js",
+                 "content.js"
+                  ],
+      "css":["style.css"]
+    }
+  ],
+  "permissions": [
+"activeTab",
+  "storage",   
+   "tabs",
+   "contextMenus"
+
+  ],
+  "update_url":"http://clients2.google.com/service/update2/crx"
+}
+
