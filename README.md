@@ -28,6 +28,7 @@
 * Morphed Image Classifier : To check if a given image has been morphed by someone, do refer to this folder.
 * spread sheet update : 
 * website-UI : This folder contains the design implementation of our website.
+* Spreadsheet Update : This folder is for updating google sheet and retriving data from spreadsheet automatically
 
 
 ## Tech/framework used
