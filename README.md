@@ -57,7 +57,6 @@ List all Future Works
 - [ ] Implement XLNET, GPT-2, Roberta, Universal Sentence Encoder
 - [ ] Text to Speech
 - [ ] Regional Languages support in the Bot
-- [ ] Make this solution multilingual
 
 
 ## Contributing
