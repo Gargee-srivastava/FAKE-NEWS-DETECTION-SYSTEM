@@ -19,3 +19,14 @@ For stablizing the network , we used the Normalization layer as well as Dropout 
 Loss Function :
 
 We used the categorical cross entropy loss function for training the neural net.
+
+
+
+Dataset Used for training:
+
+CASIA dataset was used for the training of the model.
+It had to versions : CAISA-1.0
+                     CASIA-2.0
+
+Dataset Link : https://www.kaggle.com/sophatvathana/casia-dataset
+This is a public directory of CASIA dataset on Kaggle.
