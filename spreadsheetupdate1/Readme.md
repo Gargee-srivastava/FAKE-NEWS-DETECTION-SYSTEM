@@ -1,13 +1,13 @@
-#Google spreadsheet update api 
+# Google spreadsheet update api 
 
-#technology stack
+# technology stack
 Node js
 
-#working
+# working
   It will automatically update google spreadsheet and also send data to website
   
   
- #Deployment
+ # Deployment
  Download spreadsheetupdate1 folder
  login to [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
  follow these steps from command line now
