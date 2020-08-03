@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `yarn add`
+Download all the packages realted to website to run locally
 
 ### `yarn start`
 
