@@ -1,5 +1,5 @@
 # Google spreadsheet update api 
-This api is used to save the details from Whatsapp bot.
+This api is used to save the details from Whatsapp bot. Follow the steps in https://developers.google.com/sheets/api/quickstart/nodejs to get the api key for google sheet access. Make a spreadsheet and get the spreadsheet_id from the spreadsheet link and put it in file `spreadsheet.js` in line 57. For e.g. : https://docs.google.com/spreadsheets/d/sheet_id/edit#gid=0
 
 # technology stack
 Node js
