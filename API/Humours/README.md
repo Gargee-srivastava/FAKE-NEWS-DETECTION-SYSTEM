@@ -1,4 +1,4 @@
-## Offensive classification and Dataset
+## Humour classification and Dataset
 
 Automatic humor detection has interesting use cases in modern technologies, such as chatbots and personal assistants.
 
@@ -12,7 +12,7 @@ git clone https://github.com/Gargee-srivastava/RK304_Techclans.git
 cd RK304_Techclans/API/Humours
 ```
 
-Download the offensive classification dataset from [HASOC](https://hasocfire.github.io/hasoc/2019/dataset.html) and place in `RK304_Techclans/API/Humours` folder
+Download the offensive classification dataset from [Kaggle](https://www.kaggle.com/moradnejad/200k-short-texts-for-humor-detection) and place in `RK304_Techclans/API/Humours` folder
 
 Create Conda Environment
 ```bash
