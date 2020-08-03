@@ -29,11 +29,11 @@ pip install -r requirements.txt
 
 To train the model, use `Offensive.ipynb` file to train it.
 
-To run the deployment server 
+<!-- To run the deployment server 
 
 ```python
 python app.py
-```
+``` -->
 
 ## Approach
 - Used Bert to classify this problem.

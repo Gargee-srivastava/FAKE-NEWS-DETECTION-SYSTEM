@@ -36,12 +36,12 @@ So, to train the model run this command:
 ```python
 python train.py
 ```
-
+<!-- 
 To run the deployment server 
 
 ```python
 python app.py
-```
+``` -->
 
 ## Approach
 - Used Bert to classify this problem in pytorch.

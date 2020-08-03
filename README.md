@@ -4,7 +4,9 @@
 
 **Our Solution**
 
-* What all solution we provide
+* We provide a website and google extension to verify if a particular news is fake or real.
+* We also provide a mechanism to check if an image or video is morphed or not.
+* We also provide a Whatsapp Bot for social communities to use this feature of fake news detection.
 
 <!-- * In today’s century, the free access to create and share information on social media platforms like Facebook, Instagram and other digital platforms has popped out a new problem of fake information, which created rumors around the world. And with advances in technologies like AI, digital animations and social engineering, the line between fake and authentic content is only going to blur even more.
 
@@ -38,8 +40,8 @@
 - Pytorch
 - React
 
-## Features
-
+<!-- ## Features
+ -->
 
 
 ## Showcase
