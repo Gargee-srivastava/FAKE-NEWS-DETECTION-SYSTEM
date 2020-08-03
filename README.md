@@ -54,4 +54,4 @@ Please make sure to update tests as appropriate.
 - [Gargee](https://github.com/Gargee-srivastava) (Pre-final Year B.Tech. at IIIT Guwahati)
 - [Ashutosh](https://github.com/ashutosh987) (2nd Year B.Tech. at IIIT Guwahati)
 - [Sahil Bajaj](https://github.com/sahilbajaj82) (Pre-final Year B.Tech. at IIIT Guwahati)
-- Saurav Bhartia (Pre-final Year B.Tech. at IIIT Guwahati)
+- [Saurav Bhartia](https://github.com/08saurav) (Pre-final Year B.Tech. at IIIT Guwahati)
