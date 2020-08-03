@@ -7,8 +7,14 @@ Node js
   It will automatically update google spreadsheet and also send data to website
   
   
- # Deployment
- * CLone [spreadsheet1 foler](https://github.com/Gargee-srivastava/RK304_Techclans/edit/master/spreadsheetupdate1)
+# Deployment
+
+Clone the repository
+```bash
+git clone https://github.com/Gargee-srivastava/RK304_Techclans.git
+cd RK304_Techclans/Spreadsheet\ update
+```
+ 
  * login to [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
  * follow these steps from command line now
  * git init
