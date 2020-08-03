@@ -1,4 +1,5 @@
 # Google spreadsheet update api 
+This api is used to save the details from Whatsapp bot.
 
 # technology stack
 Node js
@@ -14,15 +15,17 @@ Clone the repository
 git clone https://github.com/Gargee-srivastava/RK304_Techclans.git
 cd RK304_Techclans/Spreadsheet\ update
 ```
- 
- * login to [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
- * follow these steps from command line now
- * git init
- * heroku git:remote -a spreadsheetupdate1
- * git add.
- * git git commit -am "commit"
- * git push heroku master
- * and here you go you deployed the api and then click open app
- * after opening in url
- * [for update sheet](https://spreadsheetupdate1.herokuapp.com/spreed?id={text})
- * [for retrive data](https://spreadsheetupdate1.herokuapp.com/res)
+
+This api will be deployed in Heroku. So, Login to [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli). After that follow these steps from command line now
+
+```bash
+git init
+heroku git:remote -a spreadsheetupdate1
+git add .
+git git commit -am "commit"
+git push heroku master
+```
+
+So, this will be the api's for requesting in the spreadsheet where `{text}` will be replaced by message given by user to bot.
+* POST request(update sheet) : https://spreadsheetupdate1.herokuapp.com/spreed?id={text}
+* GET (retrive data) : https://spreadsheetupdate1.herokuapp.com/res
