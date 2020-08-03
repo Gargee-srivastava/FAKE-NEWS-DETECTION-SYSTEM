@@ -53,6 +53,7 @@ Please provide some screenshots/GIFs.
 
 List all Future Works
 
+- [ ] Analyze the video content more accurately to detect morphed or fake videos
 - [ ] Implement XLNET, GPT-2, Roberta, Universal Sentence Encoder
 - [ ] Text to Speech
 - [ ] Regional Languages support in the Bot
