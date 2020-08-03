@@ -2,7 +2,7 @@
 
 Offensive language such as insulting, hurtful, derogatory or obscene content directed from one person to another person and open for others undermines objective discussions.
 
-focus on Hate speech and Offensive language identification offered for English
+[HASOC](https://hasocfire.github.io/hasoc/2019/dataset.html) dataset focus on Hate speech and Offensive language identification offered for English
 
 ## Installation
 
