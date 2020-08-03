@@ -6,7 +6,7 @@ git clone https://github.com/Gargee-srivastava/RK304_Techclans.git
 cd RK304_Techclans/API/Stance_Detection/Word2Vec/
 ```
 
-Use the dataset file `fnc.csv` in this folder as it is merged dataset with 4-5 datasets.
+Use this [dataset](https://drive.google.com/file/d/1JpNmFrMzD4wNrPfx0gR2dcWGzQRv-tR4/view?usp=sharing)  as it is a merged dataset with 4-5 datasets.
 
 Create Conda Environment
 ```bash

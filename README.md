@@ -2,9 +2,13 @@
 
 **In today’s century, when someone shows us the news, video or pictures of any event, how can we believe its authenticity? It seems that the public is losing their trust in media due to the lack of reliable reference of facts.**
 
-* In today’s century, the free access to create and share information on social media platforms like Facebook, Instagram and other digital platforms has popped out a new problem of fake information, which created rumors around the world. And with advances in technologies like AI, digital animations and social engineering, the line between fake and authentic content is only going to blur even more.
+**Our Solution**
 
-* The hoaxes or false stories can destroy the reputation of any human or industries including politics, health, stock, sports and Finance.
+* What all solution we provide
+
+<!-- * In today’s century, the free access to create and share information on social media platforms like Facebook, Instagram and other digital platforms has popped out a new problem of fake information, which created rumors around the world. And with advances in technologies like AI, digital animations and social engineering, the line between fake and authentic content is only going to blur even more.
+
+* The hoaxes or false stories can destroy the reputation of any human or industries including politics, health, stock, sports and Finance. -->
 
 
 
@@ -17,6 +21,13 @@
 * Fake news can affect the nation as well as international relations. In 2017, Qatar’s state news agency declared that its Twitter account had been hacked and hackers published hoax comments to criticize aspects of the Arab Gulf and US foreign policy towards Iran.
 *  Due to the false comments, neighboring countries like Bahrain, the United Arab Emirates, Saudi Arabia and Egypt broke diplomatic ties with Qatar. -->
 
+## Folder Description
+
+* API : This folder has information about all machine learning models along with how to train them from scratch and also run in development server.
+* Chrome extension : This folder contains the design information about the chrome extension which is built as a platform independent source to tackle fake news circulation.
+* Morphed Image Classifier : To check if a given image has been morphed by someone, do refer to this folder.
+* spread sheet update : 
+* website-UI : This folder contains the design implementation of our website.
 
 
 ## Tech/framework used
