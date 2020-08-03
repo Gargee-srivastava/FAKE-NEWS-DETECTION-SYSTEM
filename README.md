@@ -4,9 +4,10 @@
 
 **Our Solution**
 
-* We provide a website and google extension to verify if a particular news is fake or real.
-* We also provide a mechanism to check if an image or video is morphed or not.
-* We also provide a Whatsapp Bot for social communities to use this feature of fake news detection.
+* A website and google extension to verify if a particular news is fake or real.
+* A mechanism to check if an image or video is morphed or not.
+* A Whatsapp Bot for social communities to use this feature of fake news detection.
+* A mechanism for source tracking
 
 <!-- * In today’s century, the free access to create and share information on social media platforms like Facebook, Instagram and other digital platforms has popped out a new problem of fake information, which created rumors around the world. And with advances in technologies like AI, digital animations and social engineering, the line between fake and authentic content is only going to blur even more.
 
@@ -28,7 +29,7 @@
 * API : This folder has information about all machine learning models along with how to train them from scratch and also run in development server.
 * Chrome extension : This folder contains the design information about the chrome extension which is built as a platform independent source to tackle fake news circulation.
 * Morphed Image Classifier : To check if a given image has been morphed by someone, do refer to this folder.
-* spread sheet update : 
+* Spreadsheet update : Used to store the messages in whatsapp bot in spreadsheet.
 * website-UI : This folder contains the design implementation of our website.
 * Spreadsheet Update : This folder is for updating google sheet and retriving data from spreadsheet automatically
 
