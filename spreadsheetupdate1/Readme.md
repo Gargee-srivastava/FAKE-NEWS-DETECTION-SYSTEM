@@ -8,7 +8,7 @@ Node js
   
   
  # Deployment
- * Download spreadsheetupdate1 folder
+ * CLone [spreadsheet1 foler](https://github.com/Gargee-srivastava/RK304_Techclans/edit/master/spreadsheetupdate1)
  * login to [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
  * follow these steps from command line now
  * git init
