@@ -63,6 +63,6 @@ Please make sure to update tests as appropriate.
 - [Parth Halani](https://github.com/p1halani) (Pre-final Year B.Tech. at IIIT Guwahati)
 - [Ankit Jaglan](https://github.com/66Ankit) (Pre-final Year B.Tech. at IIIT Guwahati)
 - [Gargee](https://github.com/Gargee-srivastava) (Pre-final Year B.Tech. at IIIT Guwahati)
-- [Ashutosh](https://github.com/ashutosh987) (2nd Year B.Tech. at IIIT Guwahati)
+- [Ashutosh Gupta](https://github.com/ashutosh987) (3rd Year B.Tech. at IIIT Guwahati)
 - [Sahil Bajaj](https://github.com/sahilbajaj82) (Pre-final Year B.Tech. at IIIT Guwahati)
 - [Saurav Bhartia](https://github.com/08saurav) (Pre-final Year B.Tech. at IIIT Guwahati)
