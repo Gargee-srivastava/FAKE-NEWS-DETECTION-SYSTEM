@@ -65,9 +65,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Credits/Authors
-- [Parth Halani](https://github.com/p1halani) (Pre-final Year B.Tech. at IIIT Guwahati)
-- [Ankit Jaglan](https://github.com/66Ankit) (Pre-final Year B.Tech. at IIIT Guwahati)
-- [Gargee](https://github.com/Gargee-srivastava) (Pre-final Year B.Tech. at IIIT Guwahati)
+- [Parth Halani](https://github.com/p1halani) (final Year B.Tech. at IIIT Guwahati)
+- [Ankit Jaglan](https://github.com/66Ankit) (final Year B.Tech. at IIIT Guwahati)
+- [Gargee](https://github.com/Gargee-srivastava) (final Year B.Tech. at IIIT Guwahati)
 - [Ashutosh Gupta](https://github.com/ashutosh987) (3rd Year B.Tech. at IIIT Guwahati)
-- [Sahil Bajaj](https://github.com/sahilbajaj82) (Pre-final Year B.Tech. at IIIT Guwahati)
-- [Saurav Bhartia](https://github.com/08saurav) (Pre-final Year B.Tech. at IIIT Guwahati)
+- [Sahil Bajaj](https://github.com/sahilbajaj82) (final Year B.Tech. at IIIT Guwahati)
+- [Saurav Bhartia](https://github.com/08saurav) (final Year B.Tech. at IIIT Guwahati)
