@@ -1,14 +1,17 @@
 # Fake News Solution by RK304_Techclans
 
-**In today’s century, when someone shows us the news, video or pictures of any event, how can we believe its authenticity? It seems that the public is losing their trust in media due to the lack of reliable reference of facts.**
+**In today’s century, when someone shows us the news, video or pictures of any event, how can we believe its authenticity? It seems that the public is losing their trust in media due to the lack of reliable reference of facts.Addressing the problem of fake news requires a combination
+of technologies and a multi-faceted approach due to the social dimension.So, Our solution includes three main systems to fight against
+the dissemination of fake news,and to provide a way for society to recognize and uphold reality. 
+**
 
 **Our Solution**
 
-* A website and google extension to verify if a particular news is fake or real.
+* A Chrome extension for real-time analysis of the content in user’s feed for web based media platforms.  
 * A mechanism to check if an image or video is morphed or not.
 * A Whatsapp Bot for social communities to use this feature of fake news detection.
 * A mechanism for source tracking
-
+* A user interface/website built on ReactJs Framework  for specific fact checking of input links/texts/images.
 <!-- * In today’s century, the free access to create and share information on social media platforms like Facebook, Instagram and other digital platforms has popped out a new problem of fake information, which created rumors around the world. And with advances in technologies like AI, digital animations and social engineering, the line between fake and authentic content is only going to blur even more.
 
 * The hoaxes or false stories can destroy the reputation of any human or industries including politics, health, stock, sports and Finance. -->
@@ -66,8 +69,8 @@ Please make sure to update tests as appropriate.
 
 ## Credits/Authors
 - [Parth Halani](https://github.com/p1halani) (final Year B.Tech. at IIIT Guwahati)
-- [Ankit Jaglan](https://github.com/66Ankit) (final Year B.Tech. at IIIT Guwahati)
 - [Gargee](https://github.com/Gargee-srivastava) (final Year B.Tech. at IIIT Guwahati)
 - [Ashutosh Gupta](https://github.com/ashutosh987) (3rd Year B.Tech. at IIIT Guwahati)
 - [Sahil Bajaj](https://github.com/sahilbajaj82) (final Year B.Tech. at IIIT Guwahati)
 - [Saurav Bhartia](https://github.com/08saurav) (final Year B.Tech. at IIIT Guwahati)
+- [Ankit Jaglan](https://github.com/66Ankit) (final Year B.Tech. at IIIT Guwahati)
