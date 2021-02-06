@@ -6,10 +6,10 @@
  
 
 import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="jokes-jjcedq-ba06145b949e.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="add your credential here"
 import dialogflow_v2 as dialogflow
 dialogflow_session_client=dialogflow.SessionsClient()
-PROJECT_ID="jokes-jjcedq"
+PROJECT_ID="Add project Id"
 
 def detect_intent_from_text(text,session_id,language_code='en'):
     session = dialogflow_session_client.session_path(PROJECT_ID,session_id)
@@ -31,4 +31,3 @@ def fetch_reply(query,session_id):
     #print(response.intent_detection_confidence)
 
 
-#fetch_reply("tell me joke",1234)
