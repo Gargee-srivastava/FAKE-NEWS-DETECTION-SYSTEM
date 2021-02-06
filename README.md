@@ -2,8 +2,7 @@
 
 **In today’s century, when someone shows us the news, video or pictures of any event, how can we believe its authenticity? It seems that the public is losing their trust in media due to the lack of reliable reference of facts.Addressing the problem of fake news requires a combination
 of technologies and a multi-faceted approach due to the social dimension.So, Our solution includes three main systems to fight against
-the dissemination of fake news,and to provide a way for society to recognize and uphold reality. 
-**
+the dissemination of fake news,and to provide a way for society to recognize and uphold reality. **
 
 **Our Solution**
 
