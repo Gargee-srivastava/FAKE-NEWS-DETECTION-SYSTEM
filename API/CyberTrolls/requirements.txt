@@ -1,4 +1,4 @@
-tensorflow==2.2.0
+tensorflow==2.7.2
 keras==2.4.3
 transformers==3.0.2
 numpy==1.18.5
